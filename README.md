@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 ![Oracle](https://img.shields.io/badge/-Oracle-1E7775?style=for-the-badge&logo=Oracle&logoColor=6296CC)
+![LINQ](https://img.shields.io/badge/-LINQ-1E7775?style=for-the-badge&logo=LINQ&logoColor=6296CC)
 
 <h4 align="left">How can we get in touch:</h4>
 <p align="left" target="blank">
