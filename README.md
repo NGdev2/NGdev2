@@ -19,6 +19,14 @@
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 ![Oracle](https://img.shields.io/badge/-Oracle-1E7775?style=for-the-badge&logo=Oracle&logoColor=6296CC)
 
+<h4 align="left">How can we get in touch:</h4>
+<p align="left" target="blank">
+<a href="mailto:aidar.nizamov141@gmail.com">
+  <img alt="Gmail" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" >
+</a>
+<a href="https://t.me/ftegan">
+  <img alt="Telegram" width="30px" height="30px" align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" >
+</a>
                                                                                                                                                                             
 <h2 align="center">Projects</h3>
 
