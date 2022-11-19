@@ -49,3 +49,31 @@ https://user-images.githubusercontent.com/19801851/202796950-14eae012-5516-465d-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Courier](https://github.com/andreichev/TheCourier)
+
+Главной задачей при разработке игры ставилась возможность улучшения памяти игрока.
+Цель игры: Доставить посылку курьером, единожды взглянув на карту.
+Чем интересен проект: При каждом запуске игры будет сгенерирована случайная карта, таким образом игра не будет однообразной.
+
+https://user-images.githubusercontent.com/19801851/202860075-b8044881-27ee-47ad-bb78-2acb053b3900.mp4
+
+В игре реализована возможность выбора машины курьера
+
+https://user-images.githubusercontent.com/19801851/202860641-aa137419-9685-4a2d-8d27-e047e247e21e.mp4
+
+
+### Чем интересен проект: При каждом запуске игры будет сгенерирована случайная карта, таким образом игра не будет однообразной.
+
+<p>
+<img alt="img1" width="300px" height="300px" align="center" alt="map1" src="https://user-images.githubusercontent.com/19801851/202860774-1867c897-d7cc-49c5-8ca5-849ae891ae33.png">
+
+<img alt="img2" width="300px" height="300px" align="center" alt="map2" src="https://user-images.githubusercontent.com/19801851/202860889-3b51250d-e761-4bbe-87d9-d91cc52d5ef9.png">
+
+<img alt="img3" width="300px" height="300px" align="center" alt="map3" src="https://user-images.githubusercontent.com/19801851/202860928-3c85f82d-07fa-41ab-939d-49d4372824fd.png">
+
+<img alt="img4" width="300px" height="300px" align="center" alt="map4" src="https://user-images.githubusercontent.com/19801851/202860943-cce78c66-85f8-4f8d-9253-4ab9a76f79d9.png">
+  
+<img alt="img5" width="300px" height="300px" align="center" alt="map5" src="https://user-images.githubusercontent.com/19801851/202861126-0043d002-0b38-47d2-9233-61555365cbf8.png">
+
+<img alt="img6" width="300px" height="300px" align="center" alt="map6" src="https://user-images.githubusercontent.com/19801851/202861136-41ad4710-ab33-40f0-ae73-40be2c295cbf.png">
+
+</p>
