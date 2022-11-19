@@ -77,3 +77,17 @@ https://user-images.githubusercontent.com/19801851/202860641-aa137419-9685-4a2d-
 <img alt="img6" width="300px" height="300px" align="center" alt="map6" src="https://user-images.githubusercontent.com/19801851/202861136-41ad4710-ab33-40f0-ae73-40be2c295cbf.png">
 
 </p>
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[OneBit2D](https://github.com/NGdev2/OneBit2D)
+Разработка временно приостановлена
+
+<p>
+<img alt="firstLocation" width="180px" height="300px" align="center" alt="firstLocation" src="https://user-images.githubusercontent.com/19801851/202869745-b809a63c-3431-4b64-ba26-8e1be1e0062b.png">
+
+<img alt="secondLocation" width="180" height="300px" align="center" alt="secondLocation" src="https://user-images.githubusercontent.com/19801851/202869756-489b73f0-b075-4767-b58e-846412256cd3.png">
+
+<img alt="largeMap" width="300px" height="300px" align="center" alt="largeMap" src="https://user-images.githubusercontent.com/19801851/202869763-5cc43871-92e2-4628-af2e-0728c6ccb4e4.png">
+</p>
