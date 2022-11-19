@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nizamov Aidar</a>
-<h3 align="center">I am a student of school 21/École 42/🇺</h3>
+<h3 align="center">I am a student of school 21/École 42</h3>
 
 [![ftegan's 42 stats](https://badge42.vercel.app/api/v2/cl1otlw08000609mjynsd5q91/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
 
@@ -36,3 +36,7 @@ https://user-images.githubusercontent.com/19801851/202796950-14eae012-5516-465d-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 [Balloon](https://github.com/NGdev2/Balloon)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Courier](https://github.com/andreichev/TheCourier)
