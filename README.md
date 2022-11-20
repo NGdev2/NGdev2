@@ -7,7 +7,7 @@
 ### 📖 I’m currently learning Unity
 -->
 - 📖 I’m currently learning Unity
-- 🔭 I’m currently working on <a href="" target="_blank">real time strategy</a>
+- 🔭 I’m currently working on <a href="https://github.com/NGdev2/VoidRTS" target="_blank">real time strategy</a>
 - ⚡ Fun fact: I love skiing, snowboarding, ice skating, playing table tennis and computer games.
 
 ![Unity](https://img.shields.io/badge/-Unity-1E7775?style=for-the-badge&logo=Unity&logoColor=201200)
@@ -50,18 +50,19 @@ https://user-images.githubusercontent.com/19801851/202796950-14eae012-5516-465d-
 
 [Courier](https://github.com/andreichev/TheCourier)
 
-Главной задачей при разработке игры ставилась возможность улучшения памяти игрока.
-Цель игры: Доставить посылку курьером, единожды взглянув на карту.
-Чем интересен проект: При каждом запуске игры будет сгенерирована случайная карта, таким образом игра не будет однообразной.
+The main task in the development of the game was the possibility of improving the player's memory.
+<br>
+The goal of the game is to deliver the parcel by courier, once looking at the map.
+
 
 https://user-images.githubusercontent.com/19801851/202860075-b8044881-27ee-47ad-bb78-2acb053b3900.mp4
 
-В игре реализована возможность выбора машины курьера
+The game has the option of choosing a courier car
 
 https://user-images.githubusercontent.com/19801851/202860641-aa137419-9685-4a2d-8d27-e047e247e21e.mp4
 
 
-### Чем интересен проект: При каждом запуске игры будет сгенерирована случайная карта, таким образом игра не будет однообразной.
+### What is interesting about the project: Every time the game starts, a random map will be generated, so the game will not be monotonous.
 
 <p>
 <img alt="img1" width="300px" height="300px" align="center" alt="map1" src="https://user-images.githubusercontent.com/19801851/202860774-1867c897-d7cc-49c5-8ca5-849ae891ae33.png">
@@ -82,7 +83,7 @@ https://user-images.githubusercontent.com/19801851/202860641-aa137419-9685-4a2d-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [OneBit2D](https://github.com/NGdev2/OneBit2D)
-Разработка временно приостановлена
+Development is temporarily on hold
 
 <p>
 <img alt="firstLocation" width="180px" height="300px" align="center" alt="firstLocation" src="https://user-images.githubusercontent.com/19801851/202869745-b809a63c-3431-4b64-ba26-8e1be1e0062b.png">
