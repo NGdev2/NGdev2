@@ -11,6 +11,7 @@
 - ⚡ Fun fact: I love skiing, snowboarding, ice skating, playing table tennis and computer games.
 
 ![Unity](https://img.shields.io/badge/-Unity-1E7775?style=for-the-badge&logo=Unity&logoColor=201200)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=201200)
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/-%20C%23%20-1E7775?style=for-the-badge&logo=c-sharp&logoColor=6296CC)
