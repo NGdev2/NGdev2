@@ -6,7 +6,7 @@
 <!--
 ### 📖 I’m currently learning Unity
 -->
-- 📖 I’m currently learning Unity
+- 📖 I’m currently learning Unity and React JS
 - 🔭 I’m currently working on <a href="https://www.facebook.com/profile.php?id=100092258636100" target="_blank">runner mobile game</a>
 - ⚡ Fun fact: I love skiing, snowboarding, ice skating, playing table tennis and computer games.
 
