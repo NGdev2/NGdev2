@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Nizamov Aidar</a>
 <h3 align="center">I am a student of school 21/École 42</h3>
 
-[![ftegan's 42 stats](https://badge42.vercel.app/api/v2/cl1otlw08000609mjynsd5q91/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
+<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" width="100%">
+
+[![<ftegan>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ftegan>)](https://github.com/oakoudad/badge42)
 
 <!--
 ### 📖 I’m currently learning Python Django, bootstrap.
@@ -46,6 +48,9 @@ Django applications:
 [Sessions](https://github.com/NGdev2/Life-Pro-Tips)
 []
 []
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGdev2&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
