@@ -12,6 +12,8 @@
   • Piscine Django (Sessions, authorization, bootstap, AJAX, Websockets )\
   • ft_linear_regression (AI. Machine learning algorithm)
 
+  🔭 My Unity <a href="https://github.com/NGdev2/NGdev2/tree/main/Unity" target="_blank">"Readmi"</a>
+
 - ⚡ Fun fact: I love skiing, snowboarding, ice skating, playing table tennis and computer games.
   
 
