@@ -11,14 +11,14 @@ Lately I've also been exploring AI-assisted development and how far it can take 
 
 ## 📱 Mobile Development
 
-### [The Men's Diary](https://play.google.com/store/apps/details?id=com.aidar.themensdiary) · *my own product*
+### [The Men's Diary](https://github.com/NGdev2/the-mens-diary-showcase) · *my own product*
 A diary that helps men learn to recognize and put words to their emotions. I designed, built and released it solo.  
 Offline-first: data lives locally in **Drift/SQLite** and syncs in the background with **Cloud Firestore**.
 Firebase Auth and App Check, Google Play Billing for in-app purchases, personalization and a progression system.
 Released after several Google Play closed-testing rounds with manual QA and tester feedback.
 
 `Flutter` `Dart` `Riverpod` `Drift` `Firebase` `Google Play Billing`  
-▸ Available on [Google Play](https://play.google.com/store/apps/details?id=com.aidar.themensdiary) (Android)
+▸ [Google Play](https://play.google.com/store/apps/details?id=com.aidar.themensdiary) (Android) · [Screenshots, architecture & code samples](https://github.com/NGdev2/the-mens-diary-showcase)
 
 ### [StreamPilot](https://www.polyvision.tech/) · *Polyvision*
 Flutter app for setting up cameras: device discovery, remote control, live video monitoring and streaming to YouTube/Twitch.  
