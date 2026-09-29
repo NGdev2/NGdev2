@@ -3,8 +3,8 @@
 
 <img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" width="100%">
 
-I build and ship mobile apps with **Flutter/Dart**, from the first screen to the store release.  
-Beyond mobile I work on backend services and APIs, real-time video streaming, and Linux/Kubernetes infrastructure, with a background in cybersecurity and networking from École 42.  
+I build and ship mobile apps with Flutter/Dart, from the first screen to the store release.
+I also work with backend services, APIs and web development, and have worked with Linux/Kubernetes infrastructure, cybersecurity and networking, real-time video streaming and processing, and game development.
 Lately I've also been exploring AI-assisted development and how far it can take a real product.
 
 ---
@@ -28,13 +28,18 @@ WebRTC and RTSP pipelines were explored during R&D.
 `Flutter` `Dart` `Python` `Flask` `REST` `UDP` `MJPEG`  
 ▸ [App Store](https://apps.apple.com/fr/app/polyvision-streampilot/id6755527112) · [Google Play](https://play.google.com/store/apps/details?id=com.polymnia.streampilot)
 
-### [Forward](https://github.com/NGdev2/runner) · *built entirely with AI*
-An endless-road RPG runner for phones, and an experiment: I gave **Claude Fable 5.1** an old game idea (a short note and a sketch) and left every technical and design decision to the model.
-I iterated through play-testing and written feedback only.
-I liked the result, so I used it to learn mobile monetization: opt-in rewarded ads with AdMob, GDPR consent and the Google Play release process.
+### Flicksy / Short Machine · *Polyvision*
+Flutter app for turning long football videos into short highlight clips.
+Users upload a match; the backend analyzes the video, suggests candidate moments, renders the selected clips with FFmpeg and prepares them for sharing to social platforms.
+I built the mobile app and the Python video-processing services, and worked on Firebase integration, authentication, notifications and payments.
 
-`TypeScript` `Vite` `Canvas 2D` `WebAudio` `Capacitor` `AdMob`  
-▸ Google Play closed testing
+`Flutter` `Dart` `Python` `Firebase` `PyTorch` `OpenCV` `FFmpeg`  
+▸ Developed and tested internally · Not publicly released
+
+#### [Forward](https://github.com/NGdev2/runner) · *built entirely with AI*
+An endless-road RPG runner for phones, and an experiment: I gave Claude Fable 5.1 an old game idea (a short note and a sketch) and left every technical and design decision to the model, iterating only through play-testing and written feedback.
+I liked the result, so I used it to learn mobile monetization: opt-in rewarded ads with AdMob, GDPR consent and the Google Play release process.  
+`TypeScript` `Capacitor` `AdMob` · Google Play closed testing
 
 ---
 
@@ -60,6 +65,13 @@ I liked the result, so I used it to learn mobile monetization: opt-in rewarded a
 - **[ftegan](https://github.com/NGdev2/ftegan)**: Kubernetes Deployment and Service manifests for a containerized app published on Docker Hub.
 - **[KodeKloud courses](https://github.com/NGdev2/KodeKloud-courses)**: hands-on labs in Linux, Git, Kubernetes (CKA prep), Terraform and Ansible, plus 100 Days of DevOps.
 - **[handy-scripts](https://github.com/NGdev2/handy-scripts)**: small Python and Bash automation utilities.
+
+---
+
+## 🎓 42 Journey
+
+[![ftegan's 42 stats](https://42cv.dev/api/badge/cmumuwh0j000p0kp642w4c0rm/stats?cursusId=21&coalitionId=level21)](https://42cv.dev)
+
 
 ---
 
