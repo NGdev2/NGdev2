@@ -36,7 +36,7 @@ I built the mobile app and the Python video-processing services, and worked on F
 `Flutter` `Dart` `Python` `Firebase` `PyTorch` `OpenCV` `FFmpeg`  
 ▸ Developed and tested internally · Not publicly released
 
-#### [Forward](https://github.com/NGdev2/runner) · *built entirely with AI*
+#### [Forward](https://github.com/NGdev2/forward) · *built entirely with AI*
 An endless-road RPG runner for phones, and an experiment: I gave Claude Fable 5.1 an old game idea (a short note and a sketch) and left every technical and design decision to the model, iterating only through play-testing and written feedback.
 I liked the result, so I used it to learn mobile monetization: opt-in rewarded ads with AdMob, GDPR consent and the Google Play release process.  
 `TypeScript` `Capacitor` `AdMob` · Google Play closed testing
