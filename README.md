@@ -39,7 +39,7 @@ I built the mobile app and the Python video-processing services, and worked on F
 #### [Forward](https://github.com/NGdev2/forward) · *built entirely with AI*
 An endless-road RPG runner for phones, and an experiment: I gave Claude Fable 5.1 an old game idea (a short note and a sketch) and left every technical and design decision to the model, iterating only through play-testing and written feedback.
 I liked the result, so I used it to learn mobile monetization: opt-in rewarded ads with AdMob, GDPR consent and the Google Play release process.  
-`TypeScript` `Capacitor` `AdMob` · Google Play closed testing
+`TypeScript` `Capacitor` `AdMob` · Google Play closed testing · [Play in browser](https://ngdev2.github.io/forward/)
 
 ---
 
@@ -65,6 +65,23 @@ I liked the result, so I used it to learn mobile monetization: opt-in rewarded a
 - **[ftegan](https://github.com/NGdev2/ftegan)**: Kubernetes Deployment and Service manifests for a containerized app published on Docker Hub.
 - **[KodeKloud courses](https://github.com/NGdev2/KodeKloud-courses)**: hands-on labs in Linux, Git, Kubernetes (CKA prep), Terraform and Ansible, plus 100 Days of DevOps.
 - **[handy-scripts](https://github.com/NGdev2/handy-scripts)**: small Python and Bash automation utilities.
+
+---
+
+## 🌍 Open Source
+
+### [Earful](https://github.com/NGdev2/earful) · *my own open-source project*
+A GNOME Shell extension that puts every player one click away, with each browser tab as its own player.
+Browsers report one media player for all tabs, so a companion add-on for Chrome and Firefox watches each tab, and a native messaging helper publishes every tab as its own **MPRIS** player on D-Bus.
+Supports GNOME 46–51 (ported to GNOME 51's new rendering APIs), installs with one command, tested headlessly in GNOME Shell, Chrome and Firefox.
+
+`JavaScript` `GJS` `GNOME Shell` `D-Bus` `WebExtensions` `Native Messaging`  
+▸ [GitHub & demo](https://github.com/NGdev2/earful) · Submitted to extensions.gnome.org, Firefox Add-ons and the Chrome Web Store (in review)
+
+### Contributions
+
+- **[Wave Terminal](https://github.com/wavetermdev/waveterm)**: two pull requests to this open-source terminal (TypeScript/React and Go, ~22k★): [auto-refresh for file previews when the file changes on disk](https://github.com/wavetermdev/waveterm/pull/3547), which also fixes PDF and image previews staying cached, and [an optional auto-save for the built-in editor](https://github.com/wavetermdev/waveterm/pull/3548). Both are under review.
+- **[Hanabi](https://github.com/jeffshee/gnome-ext-hanabi)**: completed the French translation (79% → 100%) of this live-wallpaper extension for GNOME Shell, via [Hosted Weblate](https://hosted.weblate.org/user/NGdev2/).
 
 ---
 
