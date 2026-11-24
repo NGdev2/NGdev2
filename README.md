@@ -51,6 +51,19 @@ I liked the result, so I used it to learn mobile monetization: opt-in rewarded a
 
 ---
 
+## ⛓️ Blockchain
+
+### [Tokenizer](https://github.com/NGdev2/Tokenizer) · *learning project*
+An ERC-20 token, AidarFteganChain42 (AFC42), that I built to learn how a smart contract goes from code to a public network: writing it, testing it, deploying it and publishing its verified source code.
+A fixed supply of 4,242 tokens is minted once at deployment, with no mint function. `burn()` and `getOwner()` let the same code work as a BEP-20 token on BNB Smart Chain, and ownership changes through Ownable2Step, so the new owner has to accept.
+17 automated tests cover normal use, actions that must fail and the required events. Deployment is scripted with Hardhat Ignition and every deployment is recorded in the repo.
+Deployed to the Ethereum Sepolia testnet and verified on Etherscan and Blockscout, with the private key and API key kept out of the repo.
+
+`Solidity` `Hardhat` `OpenZeppelin` `Ethereum` `ERC-20`  
+▸ [GitHub](https://github.com/NGdev2/Tokenizer) · [Verified contract on Etherscan](https://sepolia.etherscan.io/address/0x3D28630D5E38f7F3da4783A8867f12121777D9c6#code)
+
+---
+
 ## 🔐 Cybersecurity & Networking
 
 - **[Snow Crash](https://github.com/NGdev2/Snow-Crash-cybersecurity-project)**: Linux privilege-escalation wargame: SUID binaries, injection flaws, race conditions, weak crypto, binary analysis with `gdb`/`objdump`/`ltrace`.
@@ -85,6 +98,43 @@ Supports GNOME 46–51 (ported to GNOME 51's new rendering APIs), installs with 
 
 ---
 
+## 🎮 Game Development
+
+Earlier team projects, both built in Unity.
+
+### SAIGL · *2022 · mobile game, team of four*
+A dark-fantasy 2D runner for Android and iOS with hand-drawn black-and-white art. I was one of the two programmers, alongside a game designer/artist and a sound designer; we pitched it at GameLab 11.
+The hero keeps moving upward: you swipe to jump, fight with an upgradable melee weapon, and finish each 1–2 minute level against a multi-stage boss.
+Before playing you choose a character, and a lobby shows collected artifacts, defeated bosses and upgrades.
+
+`Unity` `C#` `Android` `iOS`  
+▸ [Gameplay video](https://youtu.be/0nY2VWSinek)
+
+<details>
+<summary>📸 <ins>Screenshots</ins></summary>
+<br>
+<p>
+  <img src="assets/saigl/character-select.jpg" height="300" alt="SAIGL character select">
+  <img src="assets/saigl/lobby.jpg" height="300" alt="SAIGL lobby">
+  <img src="assets/saigl/boss-fight.jpg" height="300" alt="SAIGL boss fight">
+</p>
+</details>
+
+### [The Courier](https://github.com/andreichev/TheCourier) · *2019 · team project*
+A 3D driving game that trains memory: you look at the city map once, then deliver the parcel from memory.
+Every run generates a new random map, so no two games are the same, and you can choose the courier's car.
+
+`Unity` `C#`  
+▸ [GitHub](https://github.com/andreichev/TheCourier)
+
+<details>
+<summary>🎬 <ins>Gameplay clip</ins></summary>
+<br>
+<img src="assets/courier/gameplay.webp" width="480" alt="The Courier gameplay: choosing a level, memorizing the map, then driving">
+</details>
+
+---
+
 ## 🎓 42 Journey
 
 [![ftegan's 42 stats](https://42cv.dev/api/badge/cmumuwh0j000p0kp642w4c0rm/stats?cursusId=21&coalitionId=level21)](https://42cv.dev)
@@ -107,7 +157,7 @@ Supports GNOME 46–51 (ported to GNOME 51's new rendering APIs), installs with 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,linux,bash,git" />
 
 **Also**  
-<img src="https://skillicons.dev/icons?i=c,cs,unity" />
+<img src="https://skillicons.dev/icons?i=c,cs,solidity,unity" />
 
 ---
 
